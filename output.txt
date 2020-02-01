@@ -1,0 +1,143 @@
+Welcome to Fortune Teller by Ajinkya Wani
+
+Would you mind answering few questions before we start the game?
+Please note you can type 'quit' anytime to end the game.
+
+Here are the hints to answer these questions
+(1) Noun – person, place or thing, e.g. house
+(2) Adjective – describes a noun, e.g. happy
+
+Give me a plural noun: houses
+Give an adjective: happy
+Choose a part of the body: hand
+Give me a singular noun: table
+Choose an article of clothing you are wearing: jacket
+Choose a number greater than one: three
+Please enter valid entry
+
+Choose a number greater than one: 4
+Give me an adjective: 56
+Please enter valid entry
+
+Give me an adjective: sad
+Give me an adjective: mad
+Choose a person in the room: rugved
+Give me an adjective: crazy
+
+Thank you! Now you are all set to play the game.
+
+Ask your query to me.
+
+Do you want to continue play the game? Type 'yes' to play or 'no' to exit from the game: ok
+Please enter either 'yes' or 'no'
+
+Do you want to continue play the game? Type 'yes' to play or 'no' to exit from the game: yes
+
+BLUE, RED, GREEN, PURPLE,
+Choose any one of the colors or type 'quit' to exit the game: blue
+b [1, 8, 2, 5]
+l [3, 6, 4, 7]
+u [1, 8, 2, 5]
+e [3, 6, 4, 7]
+Choose any number from the list: 3
+Don't believe anything rugved says.
+
+Would you mind answering this question again?
+Choose a person in the room: 33
+Please enter valid entry
+
+
+Would you mind answering this question again?
+Choose a person in the room: ajinkya
+Do you want to continue play the game? Type 'yes' to play or 'no' to exit from the game: yes
+
+BLUE, RED, GREEN, PURPLE,
+Choose any one of the colors or type 'quit' to exit the game: yellow
+Sorry, the color ain't on the list. Please try again!!
+
+
+BLUE, RED, GREEN, PURPLE,
+Choose any one of the colors or type 'quit' to exit the game: blue
+b [3, 6, 4, 7]
+l [1, 8, 2, 5]
+u [3, 6, 4, 7]
+e [1, 8, 2, 5]
+Choose any number from the list: 5
+You will find the answer in your jacket
+
+Would you mind answering this question again?
+Choose an article of clothing you are wearing: jeans
+Do you want to continue play the game? Type 'yes' to play or 'no' to exit from the game: no
+Thank you for playing! Game ended successfully.
+
+Process finished with exit code 0
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Welcome to Fortune Teller by Ajinkya Wani
+
+Would you mind answering few questions before we start the game?
+Please note you can type 'quit' anytime to end the game.
+
+Here are the hints to answer these questions
+(1) Noun – person, place or thing, e.g. house
+(2) Adjective – describes a noun, e.g. happy
+
+Give an adjective: quit
+Game ended successfully, Thanks!
+
+Process finished with exit code 0
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Welcome to Fortune Teller by Ajinkya Wani
+
+Would you mind answering few questions before we start the game?
+Please note you can type 'quit' anytime to end the game.
+
+Here are the hints to answer these questions
+(1) Noun – person, place or thing, e.g. house
+(2) Adjective – describes a noun, e.g. happy
+
+Give an adjective: happy
+Choose an article of clothing you are wearing: shirt
+Choose a part of the body: legs
+Give me a singular noun: quit
+Game ended successfully, Thanks!
+
+Process finished with exit code 0
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Welcome to Fortune Teller by Ajinkya Wani
+
+Would you mind answering few questions before we start the game?
+Please note you can type 'quit' anytime to end the game.
+
+Here are the hints to answer these questions
+(1) Noun – person, place or thing, e.g. house
+(2) Adjective – describes a noun, e.g. happy
+
+Choose a person in the room: parag
+Choose an article of clothing you are wearing: jacket
+Choose a part of the body: hand
+Give me a singular noun: table
+Give me an adjective: happy
+Give me a plural noun: houses
+Choose a number greater than one: 4
+Give me an adjective: sad
+Give an adjective: mad
+Give me an adjective: crazy
+
+Thank you! Now you are all set to play the game.
+
+Ask your query to me.
+
+Do you want to continue play the game? Type 'yes' to play or 'no' to exit from the game: yes
+
+BLUE, RED, GREEN, PURPLE,
+Choose any one of the colors or type 'quit' to exit the game: quit
+Game ended successfully, thank you for playing!
+
+Process finished with exit code 0

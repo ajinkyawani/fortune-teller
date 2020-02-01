@@ -1,0 +1,8 @@
+Signs point to a very $adjective yes.
+Signs point to a very $adjective yes.
+Don't believe anything $person says.
+What does your $body_part tell you?",
+You will find the answer in your $clothing_article.
+The skies are $adjective. The future is uncertain.
+Picture a/an $adjective $singular_noun. That is your answer.
+I see $number_greater_than_one big $plural_noun in your future.
